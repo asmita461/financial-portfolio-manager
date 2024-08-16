@@ -1,0 +1,7 @@
+
+gainers:
+https://financialmodelingprep.com/api/v3/stock_market/gainers?apikey=LcDwzslDb1bh8BYZ6ANKaAhkgjxozBRu
+
+stock list:
+https://financialmodelingprep.com/api/v3/stock/list?apikey=LcDwzslDb1bh8BYZ6ANKaAhkgjxozBRu
+(we can use this to get price)
